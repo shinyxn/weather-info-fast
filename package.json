@@ -7,11 +7,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/shinyxn/weather-info-fast.git"
+  },
   "dependencies": {
     "weather-cli-city-weather": "^1.0.1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "shinyxn",
+  "license": "MIT",
   "description": ""
 }
